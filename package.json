@@ -1,6 +1,6 @@
 {
 	"name": "two-log-min",
-	"version": "0.2.3",
+	"version": "1.0.0",
 	"description": "ora and debug , just two logger, if debug",
 	"license": "MIT",
 	"repository": "chinanf-boy/two-log-min",
@@ -10,7 +10,7 @@
 		"url": "http://llever.com"
 	},
 	"bin": {
-		"two-log-min":"cli.js"
+		"two-log-min": "cli.js"
 	},
 	"engines": {
 		"node": ">=4"
