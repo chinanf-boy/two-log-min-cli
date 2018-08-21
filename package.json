@@ -1,9 +1,9 @@
 {
-	"name": "two-log-min",
+	"name": "two-log-min-cli",
 	"version": "1.0.0",
 	"description": "ora and debug , just two logger, if debug",
 	"license": "MIT",
-	"repository": "chinanf-boy/two-log-min",
+	"repository": "chinanf-boy/two-log-min-cli",
 	"author": {
 		"name": "chinanf-boy",
 		"email": "865501259@qq.com",
