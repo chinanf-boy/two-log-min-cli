@@ -18,10 +18,6 @@ npm i -g two-log-min-cli
 > just Demo
 
 ```
-npm install --global two-log-min
-```
-
-```
 $ two-log-min --help
 
 	Usage
