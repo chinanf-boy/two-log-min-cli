@@ -49,9 +49,9 @@
 		"debug"
 	],
 	"dependencies": {
-		"two-log-min": "*",
+		"meow": "^3.7.0",
 		"turbocolor": "^2.4.5",
-		"meow": "^3.7.0"
+		"two-log-min": "^1.0.6"
 	},
 	"devDependencies": {
 		"ava": "^0.20.0",
